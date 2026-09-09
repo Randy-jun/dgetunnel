@@ -8,6 +8,6 @@
     "gen:modules": "node scripts/gen-modules.mjs"
   },
   "dependencies": {
-    "hono": "^4.10.6"
+    "hono": "^4.13.5"
   },"name": "dgetunnel"
 }
